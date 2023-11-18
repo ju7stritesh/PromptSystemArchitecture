@@ -56,4 +56,4 @@ The importance of refined models increases when concentrating on certain use cas
 fine-tuning interactions to extract valuable insights, enhance decision-making, and propel an organization towards success.
 
 _**Note** : In a few days, I will give a brief demonstration of the quick engineering chat generating application that includes context, 
-covering the majority of the architecture's components._
+covering the majority of the architecture's components here https://github.com/ju7stritesh/PromptEngineeringChatGeneration._
