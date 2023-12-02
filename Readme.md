@@ -79,5 +79,5 @@ Each of the three question categories in the application—MCQs, PointBased, and
 **Final thought** - In the realm of business, prompt engineering serves as a strategic lever, 
 fine-tuning interactions to extract valuable insights, enhance decision-making, and propel an organization towards success.
 
-_**Note** : In a few days, I will give a brief demonstration of the quick engineering chat generating application that includes context, 
+_**Note** : I have give a brief demonstration of the quick engineering chat generating application that includes context, 
 covering the majority of the architecture's components here https://github.com/ju7stritesh/PromptEngineeringChatGeneration._
