@@ -59,17 +59,22 @@ The importance of refined models increases when concentrating on certain use cas
 
 ## Real World Application - 
 **Based on the concepts discussed above**,
-I have developed a basic online application for answering questions that enables teachers to generate question papers and view the AI's feedback. Through the application, teachers and students have separate portals where students can complete question papers from various teachers and receive scores for both the overall and individual questions answered.
+I have developed a basic online application (from real user feedback) for answering questions that enables teachers to generate question papers and view the AI's feedback. Through the application, teachers and students have separate portals where students can complete question papers from various teachers and receive scores for both the overall and individual questions answered.
 The data is preprocessed and postprocessed using sophisticated approaches (together with the marking system) to accommodate nearly every type of topic (philosophy, science, history, etc.), making the algorithm more sophisticated for the application.
 There are still a lot of problems with score generation because the subject creates variants that need to be better managed and tailored to each unique use case.
 Each of the three question categories in the application—MCQs, PointBased, and Subjective—has a unique method for producing a score.
 
-Screenshots for the same.
-![Tried1.png](WebApp%2FTried1.png) Teacher portal
-![Tried2.png](WebApp%2FTried2.png) Creating Tests
-![Tried3.png](WebApp%2FTried3.png) Student's answer sheet
-![Tried4.png](WebApp%2FTried4.png) Analyzing the AI score from the answer sheet
-
+### Screenshots for the same.
+#### Teacher portal
+![Tried7.png](WebApp%2FTried7.png)
+#### Creating Tests
+![Tried2.png](WebApp%2FTried2.png) 
+#### Student's answer sheet
+![Tried3.png](WebApp%2FTried3.png) 
+#### Analyzing the AI score from the answer sheet
+![Tried4.png](WebApp%2FTried4.png) 
+#### Multi language support
+![Tried6.png](WebApp%2FTried6.png)
 
 **Final thought** - In the realm of business, prompt engineering serves as a strategic lever, 
 fine-tuning interactions to extract valuable insights, enhance decision-making, and propel an organization towards success.
